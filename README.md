@@ -1,7 +1,1 @@
-
-Path               
-----               
-C:\Users\Admin\Demo
-
-
-
+whoami
