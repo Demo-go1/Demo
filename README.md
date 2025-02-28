@@ -1,1 +1,2 @@
-type C:\Users\Admin\Desktoplag.txt
+desktop-5jfi28f\admin
+
