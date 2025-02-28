@@ -1,1 +1,7 @@
-pwd
+
+Path               
+----               
+C:\Users\Admin\Demo
+
+
+
