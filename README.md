@@ -1,2 +1,2 @@
-type C:\Users\Admin\password.txt
+This is a victim's flag.
 
