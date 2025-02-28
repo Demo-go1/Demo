@@ -1,2 +1,1 @@
-desktop-5jfi28f\admin
-
+mkdir C:\Users\Admin\Desktop\flag
