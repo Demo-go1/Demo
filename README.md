@@ -1,1 +1,2 @@
-type C:\Users\Admin\password.txt
+desktop-5jfi28f\admin
+
